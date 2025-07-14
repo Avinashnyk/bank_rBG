@@ -1,0 +1,9 @@
+git init - for initialization 
+
+touch filename.java - to create a file
+vim filename.java - open a file 
+escape then type ":wq!" to exit from the file.
+without creating the file with the command touch , we can directly create file with content using vim command.
+
+process of sending the local file to GitHub:
+local file from the laptop -> unstage/untracked -> stage/ready to move ->hub
